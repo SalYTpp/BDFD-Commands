@@ -8,5 +8,4 @@ $nomention
 $color[56eef7]
 $title[Meme]
 $image[https://ctk-api.herokuapp.com/meme/$random [1;500]]
-$footer[Requested By $username   |
-$date]
+$footer[Requested By $username | $date]
