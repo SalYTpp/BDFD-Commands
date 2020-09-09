@@ -1,6 +1,7 @@
 Command Name: Meme Command
 
 Command Trigger: (prefix)meme
+[API INCLUDED]
 
 $nomention
 $color[56eef7]
