@@ -1,0 +1,10 @@
+Command Name: Ship Command
+
+Command Trigger: (prefix)ship
+
+$nomention
+$allowMention
+$title[Aww! Lets see how you two Match up!]
+$color[FF69B4]
+$description[<@$authorID> and $message are a
+$random[0;100]% match!]
