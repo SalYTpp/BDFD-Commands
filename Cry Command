@@ -1,0 +1,8 @@
+Command Name: Cry Command
+
+Command Trigger: (prefix) cry
+
+$nomention
+$color[86cf7c]
+$description[$username is sed]
+$image[https://leref.ga/api/public/cry/$random[1;40].gif]
