@@ -1,6 +1,7 @@
 Command Name: Cry Command
 
-Command Trigger: (prefix) cry
+Command Trigger: (prefix)cry
+[API INCLUDED]
 
 $nomention
 $color[86cf7c]
